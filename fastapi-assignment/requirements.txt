@@ -1,7 +1,0 @@
-fastapi
-sqlalchemy
-aiosqlite
-uvicorn
-pydantic
-celery[redis]
-redis
